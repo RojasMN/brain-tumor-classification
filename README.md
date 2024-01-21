@@ -34,5 +34,13 @@ The dataset includes an "Image" column specifying the image name and a "Class" c
 - Conducted normality checks using QQ plots to assess the underlying distribution of the data.
 
 ***Machine Learning Classification Algorithms:***
-- Linear Regression Models (SKLearn): Employed linear regression-based models from the scikit-learn library to classify images into tumoral and non-tumoral categories.
-- XGBoost Classifier: Utilized XGBoost, an efficient gradient boosting framework, to construct a classification model achieving an impressive 98% efficiency in distinguishing between tumoral and non-tumoral images.
+- Linear Regression Models (SKLearn): Employed linear regression-based models from the scikit-learn library to classify images into tumoral and non-tumoral categories, achieving an  98.8% efficiency in distinguishing between tumoral and non-tumoral images.
+- XGBoost Classifier: Utilized XGBoost, an efficient gradient boosting framework, to construct a classification model achieving an  98.7% efficiency in distinguishing between tumoral and non-tumoral images.
+
+---
+
+### Resume
+
+The exploration and analysis presented in this repository offer valuable insights into the brain tumor feature dataset. The machine learning classification models demonstrate a notable 98% efficiency in accurately categorizing images as tumoral or non-tumoral.
+
+Feel free to explore the code, visualizations, and results to gain a comprehensive understanding of the dataset and the effectiveness of the implemented classification algorithms. For any inquiries or improvements, please feel free to contact me!
