@@ -1,2 +1,2 @@
-# brain-tumor-classification
-Exploratory data analysis and ML models for tumor classification based on a Kaggle dataset.
+# EDA and ML Classification on a Brain Tumor MRI Kaggle Dataset
+
