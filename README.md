@@ -1,5 +1,8 @@
 # EDA and ML Classification on a Brain Tumor MRI Kaggle Dataset
+This repository focuses on Exploratory Data Analysis (EDA) for a brain tumor feature dataset, aiming to gain insights into the data distribution, relationships, and classification performance.
+
 ---
+
 ### Dataset Description
 This dataset comprises features extracted from brain MRI, containing first and second order statistical measures of the image. The fearures are categorized as follows:
 
@@ -21,3 +24,15 @@ This dataset comprises features extracted from brain MRI, containing first and s
 - Coarseness: Reflects the granularity and roughness of the image
 
 The dataset includes an "Image" column specifying the image name and a "Class" column indicating whether the image contains a tumor or not (1 = Tumor, 0 = Non-Tumor). The goal is likely to use these features to predict the presence or absence of a brain tumor in medical imaging.
+
+---
+
+### Contents
+
+***Data Visualization:***
+- Utilized various visualization techniques, including boxplots, scatterplots, and correlation analysis, to comprehend the distribution and relationships among different features.
+- Conducted normality checks using QQ plots to assess the underlying distribution of the data.
+
+***Machine Learning Classification Algorithms:***
+- Linear Regression Models (SKLearn): Employed linear regression-based models from the scikit-learn library to classify images into tumoral and non-tumoral categories.
+- XGBoost Classifier: Utilized XGBoost, an efficient gradient boosting framework, to construct a classification model achieving an impressive 98% efficiency in distinguishing between tumoral and non-tumoral images.
