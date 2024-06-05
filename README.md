@@ -1,4 +1,4 @@
-# EDA and ML Classification on a Brain Tumor MRI Kaggle Dataset
+# EDA and Logistic Regression Classification on a Brain Tumor MRI Kaggle Dataset
 This repository focuses on Exploratory Data Analysis (EDA) for a brain tumor image dataset, aiming to gain insights into the data distribution, relationships, and classification performance of a LRM model using Python.
 
 ---
